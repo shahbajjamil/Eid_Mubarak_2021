@@ -3,13 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "f973e2b5aaef4341b332393c4698f5f4",
+  "assets/AssetManifest.json": "68eb657e6c143093b782b05cb4f4cfaa",
 "assets/assets/fonts/sdfont.ttf": "4f14b538f109b4bf543270056c1968b0",
 "assets/assets/images/bottom.png": "dc8fed51cf91c332608a5a631286366d",
-"assets/assets/images/close.png": "b93ed072baf2b93b1840d653a1301509",
-"assets/assets/images/image_source.txt": "82bb579b10068564b593653be08ab750",
-"assets/assets/images/lamp.png": "4a2461d78993d5cec347b014ceaf6a68",
-"assets/assets/images/lamp2.png": "d7bc5410a8e17b02e5d7ff9a2eacf734",
 "assets/assets/images/lamp3.png": "35be3023932ef38193cc3905f21d2268",
 "assets/assets/images/masjid.png": "e7cef6a8f36d1fb46f6ecf7f6d52c671",
 "assets/assets/images/menu.png": "05142c4828cee603d9721e3f7d4aeccd",
@@ -24,9 +20,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "4a0ea3b15ba8d935c27fbc71327d40b9",
-"/": "4a0ea3b15ba8d935c27fbc71327d40b9",
-"main.dart.js": "7d851be4124e10e597534bb078246f5a",
+"index.html": "b22533d9c3de3ac1707b04cbb4d82dff",
+"/": "b22533d9c3de3ac1707b04cbb4d82dff",
+"main.dart.js": "6b9dc9a26855feccf0ab7fde0b7e7950",
 "manifest.json": "f8932b0a122ab42e9b8d9b5fcb688ed5",
 "version.json": "0a371de89517597caea97497f083024c"
 };
